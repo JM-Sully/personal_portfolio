@@ -94,7 +94,6 @@ body {
 
   #background-img-container {
     position: relative;
-    text-align: left;
   }
   
   #background-img {
@@ -105,9 +104,9 @@ body {
   
   #project-title {
     position: absolute;
-    width: 30%;
+    width: 28%;
     top: 35%;
-    left: 10%;
+    left: 8%;
   }
   
   #project-title p {
@@ -136,7 +135,7 @@ body {
   .project-tile {
     height: 40%;
     min-width: 40%;
-    border: 7px solid #83e6bd;
+    border: 5px solid #83e6bd;
     border-radius: 10px;
     overflow: auto;
     margin-bottom: 10%;
@@ -204,15 +203,16 @@ body {
     }
   }
   
-  
-  
   #ggfg {
-    width: 35%  
+    width: 25%  
+  }
+  #tech-doc-img {
+    width: 50%  
   }
   
   .project-tile-title {
     text-align: center; 
-    veritcal-align: middle;
+    vertical-align: middle;
     margin-top: 15%;
   }
   
