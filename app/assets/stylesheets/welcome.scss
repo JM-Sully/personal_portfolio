@@ -148,6 +148,19 @@ body {
     padding: 10%;
   }
   
+  #ggfg {
+    width: 25%  
+  }
+  #tech-doc-img {
+    width: 50%  
+  }
+  
+  .project-tile-title {
+    text-align: center; 
+    vertical-align: middle;
+    margin-top: 15%;
+  }
+  
   @media only screen and (max-width: 730px) {
     .project-tile-title {
       font-size: 12px; 
@@ -201,19 +214,6 @@ body {
     overflow: auto;
     margin-bottom: 10%;   
     }
-  }
-  
-  #ggfg {
-    width: 25%  
-  }
-  #tech-doc-img {
-    width: 50%  
-  }
-  
-  .project-tile-title {
-    text-align: center; 
-    vertical-align: middle;
-    margin-top: 15%;
   }
   
   #profiles-container {
